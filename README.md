@@ -1,16 +1,51 @@
 ## Hi there 👋
 
 <!--
-**s-thiyagu/s-thiyagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Thiyagu S 👋
 
-Here are some ideas to get you started:
+Software Engineer with a strong focus on backend development and building reliable, scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer at **Mitrahsoft**
+- 🧠 Backend-focused developer
+- 🌱 Continuously learning and improving system design and performance
+- 📍 Based in Madurai, India
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- Java
+- JavaScript
+
+**Backend & Frameworks**
+- Spring Boot
+- RESTful APIs
+
+**Databases**
+- MySQL
+- PostgreSQL
+
+**Tools & Platforms**
+- Git & GitHub
+
+---
+
+## 📌 Professional Interests
+
+- Backend system design
+- API development
+- Performance optimization
+- Clean code & best practices
+
+---
+
+## 📫 Contact
+
+- GitHub: [https://github.com/s-thiyagu](https://github.com/s-thiyagu)
+
+---
