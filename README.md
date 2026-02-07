@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Thiyagu S 👋
 
 Software Engineer with a strong focus on backend development and building reliable, scalable applications.
