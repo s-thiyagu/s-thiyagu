@@ -29,16 +29,6 @@ Software Engineer with a strong focus on backend development and building reliab
 
 **Tools & Platforms**
 - Git & GitHub
-
----
-
-## 📌 Professional Interests
-
-- Backend system design
-- API development
-- Performance optimization
-- Clean code & best practices
-
 ---
 
 ## 📫 Contact
